@@ -9,7 +9,7 @@
         - 📄 [Computer Organization and Embedded Systems 6th Edition by Karl Hamacher.pdf](computer_organization/computer-organization-6th-ed.pdf)
     - 📂 __programming\_languages__
         - 📂 __java__
-            - 📄 [Java in Two Semesters.pdf](introduction_to_programming/Java%20in%20Two%20Semesters.pdf)
-            - 📄 [Intro to Software Design with Java](introduction_to_programming/Intro%20to%20Software%20Design%20with%20Java.pdf)
+            - 📄 [Java in Two Semesters.pdf](programming_languages/Java%20in%20Two%20Semesters.pdf)
+            - 📄 [Intro to Software Design with Java](programming_languages/Intro%20to%20Software%20Design%20with%20Java.pdf)
     - 📂 __databases__
         - 📄 [Fundamentals of Database Systems (7th edition) - 2016.pdf](databases/Fundamentals%20of%20Database%20Systems%20(7th%20edition)%20-%202016.pdf)
