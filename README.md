@@ -13,3 +13,5 @@
             - 📄 [Intro to Software Design with Java](programming_languages/Intro%20to%20Software%20Design%20with%20Java.pdf)
     - 📂 __databases__
         - 📄 [Fundamentals of Database Systems (7th edition) - 2016.pdf](databases/Fundamentals%20of%20Database%20Systems%20(7th%20edition)%20-%202016.pdf)
+    - 📂 __data_structures__
+        - 📄 [Wiley Data Structures and Algorithms in Java 6th Editions](data_structures/Wiley.Data.Structures.and.Algorithms.in.Java.6th.Edition.pdf)
